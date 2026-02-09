@@ -1,4 +1,4 @@
-# Mission Quest Irene
+# Mission Quest Irene :)
 
 🎉 **Mission Quest**: ¡Una aplicación web para gestionar y visualizar misiones, perfecta para jugadores y organizadores de eventos!
 
